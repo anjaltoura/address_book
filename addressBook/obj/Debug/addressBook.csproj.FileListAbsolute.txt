@@ -1,0 +1,11 @@
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\bin\Debug\addressBook.exe.config
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\bin\Debug\addressBook.exe
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\bin\Debug\addressBook.pdb
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.AssemblyReference.cache
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.CoreCompileInputs.cache
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\obj\Debug\addressBook.exe
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\obj\Debug\addressBook.pdb
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AnjaliSingh\source\repos\addressBook\addressBook\obj\Debug\addressBook.csproj.CopyComplete

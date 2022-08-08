@@ -36,7 +36,7 @@ namespace addressBook
                     sw.Close();
                 }
             }
-                Console.WriteLine("Hi! Welcome to Address Book. \n\nPlease select one option: \n\nPress 1: To create new user. \nPress 2: To display existing users. \nPress 3:To search a user." );
+                Console.WriteLine("Hi!! Welcome to Address Book. \n\nPlease select one option: \n\nPress 1: To create new user. \nPress 2: To display existing users. \nPress 3:To search a user." );
                 int userChoice = int.Parse(Console.ReadLine());
           
             using (StreamReader sr = new StreamReader(path))
